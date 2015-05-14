@@ -1,3 +1,4 @@
+# my comment
 require 'mcollective/agent/shell/job'
 
 module MCollective
